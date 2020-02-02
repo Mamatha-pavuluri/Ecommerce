@@ -1,0 +1,9 @@
+********Starting TC001_Customerregistration********
+Clicked on SignIN button with objects:[[FirefoxDriver: firefox on WINDOWS (4f19adfb-2951-4d28-a365-0b4f5ac4a7ec)] -> link text: Sign in]
+******End of TC001_Customerregistration*******
+********Starting TC001_Customerregistration********
+Clicked on SignIN button with objects:[[ChromeDriver: chrome on XP (895fd5417c5ad8e42e35fafe63caf6a4)] -> link text: Sign in]
+******End of TC001_Customerregistration*******
+********Starting TC001_Customerregistration********
+Clicked on SignIN button with objects:[[InternetExplorerDriver: internet explorer on WINDOWS (09a14c14-1a96-439d-a876-5363112dbbfd)] -> link text: Sign in]
+******End of TC001_Customerregistration*******
